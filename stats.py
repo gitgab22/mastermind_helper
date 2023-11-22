@@ -21,7 +21,7 @@ def distribution_graph(n, duplicates, start_double, optimized_choice):
             print("time taken ", duration)
             Times.append(duration)
             start = time.time()
-            print("start of calculation ", i + 10)
+            print("start of next calculation ")
         Solution = random.choice(L)
         count, num_positions = random_choice_program_stats(Solution, duplicates, start_double, optimized_choice)
         Sum += count
