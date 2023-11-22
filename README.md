@@ -1,2 +1,1 @@
-# mastermind_helper
-Mastermind is a logic-based game where players guess a code of colored pegs. I developed a unique, self-made program to assist players. It analyzes game state to suggest the best next move, enriching gameplay and showcasing problem-solving skills.
+Mastermind is a classic board game focused on logic and deduction, where players guess a secret code of colored pegs. I've created an independent, program to aid players in strategizing their next move. This tool analyzes game progress and suggests the probable combination for subsequent guesses, enhancing gameplay and demonstrating computational problem-solving in real-world applications. Ideal for both beginners and experienced players, it offers a new dimension to Mastermind strategies.
